@@ -1,0 +1,6 @@
+path: /Users/shijojohn/PycharmProjects/Accident/custom_dataset
+train: images/train
+val: images/val
+
+nc: 2  # e.g., 0: no accident, 1: accident (adjust based on your classes)
+names: ['no_accident', 'accident']
